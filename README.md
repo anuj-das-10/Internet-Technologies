@@ -31,63 +31,63 @@
 
 #### Q1) &ensp;  Write a JAVA program to explore different methods of ArrayList class.
 
-- ######  [See Solution using Java]()✅
+- ######  [See Solution using Java](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JAVA/ArrayListMethods.java)✅
 #
 
 
 #### Q2) &ensp;  Write a JAVA  program to Sort a given List of Integers using Collection Framework.
 
-- ######  [Using Collections.sort()]()✅
-- ######  [Using Bubble Sort Algorithm]()✅
+- ######  [Using Collections.sort()](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JAVA/CollectionSort.java)✅
+- ######  [Using Bubble Sort Algorithm](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JAVA/Sorting.java)✅
 #
 
 
 #### Q3) &ensp;  Write a JDBC program to connect Java Application Interface with DBMS to perform Database Management operations.
 
-- ######  [Simple JDBC Program]()✅
+- ######  [Simple JDBC Program](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JDBC/database_connectivity/src/database_connectivity/JDBC_Simple.java)✅
 
-- ######  [Extended to Mini Project]()✅
+- ######  [Extended to Mini Project](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JDBC/database_connectivity/src/database_connectivity/JavaDataBaseConnectivity.java)✅
 #
 
 
 #### Q4) &ensp; Write a JavaScript to calculate the Sum and Product of two numbers.
 
-- ######  [See Solution using JavaScript]()✅
+- ######  [See Solution using JavaScript](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JS/sum_prod_of_two.js)✅
 #
 
 
 #### Q5) &ensp; Write a JavaScript to find the Factorial of a given Integer using Function.
 
-- ######  [See Solution using JavaScript]()✅
+- ######  [See Solution using JavaScript](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JS/factorial.js)✅
 #
 
 
 #### Q6) &ensp; Write a JavaScript to print the Multiplication Table of a given Integer.
 
-- ######  [See Solution using JavaScript]()✅
+- ######  [See Solution using JavaScript](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JS/multiplication_table.js)✅
 #
 
 
 #### Q7) &ensp; Write a JavaScript to find the largest among the given three numbers.
 
-- ######  [See Solution using JavaScript]()✅
+- ######  [See Solution using JavaScript](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JS/largest_of_three.js)✅
 #
 
 
 #### Q8) &ensp; Write a JavaScript to enter a List of Positive Integers terminated by zero. Find the Sum and Average of the List.
 
-- ######  [See Solution using JavaScript]()✅
+- ######  [See Solution using JavaScript](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JS/sum_and_avg_of_list.js)✅
 #
 
 #### Q9) &ensp; Write a JavaScript to read 'n' Integers. Count the number of 0's (Zeroes), Positive and Negative Integers in the List. 
 
-- ######  [See Solution using JavaScript](https://github.com/anuj-das-10/Network-Programming/blob/main/Solutions/Q-08/GetAllAddresses.java)✅
+- ######  [See Solution using JavaScript](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JS/count_pve_nve_zeroes.js)✅
 #
 
 
 #### Q10) &ensp; Write a simple JSP (Java Server Page) to print a message - "Hello World".
 
-- ######  [See Solution using JSP]()✅
+- ######  [See Solution using JSP](https://github.com/anuj-das-10/Internet-Technologies/blob/main/JSP/hello_world/src/main/webapp/index.jsp)✅
 
 #
 
