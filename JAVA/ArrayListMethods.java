@@ -7,7 +7,7 @@ import java.util.ArrayList;
 class ArrayListMethods {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<String>();
-        list.add("Anuj");       list.add("Pragati");
+        list.add("Anuj");       list.add("Kevin");
         list.add("Kaynath");    list.add("John");
         list.add("William");    list.add("Scarlet");
 
