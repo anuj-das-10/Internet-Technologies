@@ -7,6 +7,6 @@
 <title>JSP Practical</title>
 </head>
 <body>
-<h1 align="center">Hello World</h1>
+    <%= "Hello World!" %>
 </body>
 </html>
